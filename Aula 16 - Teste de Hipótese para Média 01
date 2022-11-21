@@ -1,0 +1,25 @@
+Previoulsy
+Pelo TLC, quando a amostra é composta por ao menos 30 elementos, a distribuição de 𝑥¯ (média amostral) é normal
+A conclusão em um teste de hipótese emprega o valor p para a estatística do teste, tal como 𝑥¯
+	Valor p: probabilidade de se obter uma estatística amostral com um valor tão extremo ou maior que aquele determinado a partir dos dados da amostra
+
+Regra de decisão baseada no valor p
+Se p ≤ ⍺ , então rejeite Ho
+Se p > ⍺ , não rejeito Ho
+*Quanto menor o valor p, mais evidência há a favor da rejeição de Ho
+
+Encontrando o valor p em um teste de hipótese
+	- Unilateral à esquerda, valor p = (área na cauda esquerda)
+	- Unilateral à direita, valor p = (área na cauda direita)
+	- Bilateral, valor p = (área cauda esquerda + direita) = 2(área cauda)
+  
+Instruções 
+1.Verifique se 𝝈 é conhecido, se amostra é aleatória, se a população é normalmente distribuída ou se n ≥ 30
+2.Expresse afirmação investigada verbal e matematicamente. 
+Identifique Ho e Ha
+3.Especifique o nível de significância
+4.Calcule a estatística de teste padronizada
+5.Encontre a área sob a curva normal padronizada que corresponde a z
+6.Encontre o valor de p
+7.Tome decisão para rejeitar ou não Ho
+Interprete a decisão no contexto da afirmação original
